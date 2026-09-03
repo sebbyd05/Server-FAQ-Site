@@ -1,8 +1,0 @@
-{
-  "label": "Connecting (Bedrock)",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "There are two different ways to connect to the server on Bedrock. You can pick either if you are on mobile or windows, but need to use the XBox friend method if you are on any console."
-  }
-}
