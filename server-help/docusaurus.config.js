@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Guides',
-                to: '/docs/intro',
+                to: '/docs/category/connecting-bedrock',
               },
             ],
           },
