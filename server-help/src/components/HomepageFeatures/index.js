@@ -8,16 +8,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        It sure is a server
+        It sure is a server. And this little guy loves it!
       </>
     ),
   },
   {
-    title: 'Focus on the server',
+    title: 'Map',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        You can tell its a server
+        It's got a map! Not a picture of a dinasaur next to text.
       </>
     ),
   },
